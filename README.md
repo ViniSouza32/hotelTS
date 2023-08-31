@@ -1,1 +1,1 @@
-# hotelTS
+# Para usar o projeto deve-se editar o arquivo ".env.exemple" tirando ".exemple" da frente e botar suas info. Para roda-lo precisa colocar os arquivos em uma pasta e em um powershell, escrever os comandos "npm init", "npm install --save-dev typescript", "npx tsc --init
